@@ -1,0 +1,1 @@
+﻿C:\Users\13540\Desktop\git\ncnn_mobilenetv2_win-master\ex_1\ex_1.vcxproj(67,5): error MSB4019: 找不到导入的项目“C:\Users\13540\Desktop\git\ncnn_mobilenetv2_win-master\ex_1\ncnn_debug.props”。请确认 Import 声明“ncnn_debug.props”中的表达式正确，且文件位于磁盘上。
